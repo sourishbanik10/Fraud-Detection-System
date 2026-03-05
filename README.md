@@ -20,4 +20,5 @@ AI-powered fraud detection system using Machine Learning and Streamlit.
 Random Forest classifier trained on transaction data.
 
 ## 🌐 Live Demo
-(Will be added after deployment)
+
+https://fraud-detection-system-jdfanflolm7epptwujmmlo.streamlit.app/
