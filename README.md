@@ -1,2 +1,23 @@
-# Fraud-Detection-System
-An end-to-end Machine Learning-powered fraud detection system that analyzes transaction details and predicts the likelihood of fraudulent activity in real-time.
+# 💳 Credit Card Fraud Detection System
+
+AI-powered fraud detection system using Machine Learning and Streamlit.
+
+## 🚀 Features
+- Real-time fraud prediction
+- Risk level badge (Low / Medium / High)
+- Fraud probability score
+- Interactive dashboard
+- Dark themed UI
+
+## 🛠 Tech Stack
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas
+- Matplotlib
+
+## 📊 Model
+Random Forest classifier trained on transaction data.
+
+## 🌐 Live Demo
+(Will be added after deployment)
